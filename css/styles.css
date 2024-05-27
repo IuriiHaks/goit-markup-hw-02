@@ -1,6 +1,8 @@
 body {
   border-bottom: 1px solid var(--CORNFLOWER, #e7e9fc);
   background: var(--WHITE, #fff);
+  font-family: 'Roboto', sans-serif;
+  color: #434455;
 }
 
 a {
@@ -13,11 +15,11 @@ ul {
 
 .logo {
   color: var(--IRIS, #4d5ae5);
-  font-family: Raleway;
+  font-family: 'Raleway', sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
-  line-height: 21px; /* 116.667% */
+  line-height: 1.17;
   letter-spacing: 0.54px;
   text-transform: uppercase;
 }
