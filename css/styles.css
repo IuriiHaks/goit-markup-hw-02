@@ -51,6 +51,10 @@ ul {
   color: #404BBF;
 }
 
+.header-address {
+  font-style: normal;
+}
+
 .address-link {
   color: var(--SLATE, #434455);
 
@@ -156,7 +160,7 @@ ul {
   font-size: 36px;
   font-style: normal;
   font-weight: 700;
-  line-height: 1.11px;
+  line-height: 1.11;
   letter-spacing: 0.72px;
 }
 
