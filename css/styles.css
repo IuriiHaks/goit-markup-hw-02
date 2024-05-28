@@ -1,5 +1,4 @@
 body {
-  border-bottom: 1px solid var(--CORNFLOWER, #e7e9fc);
   background: var(--WHITE, #fff);
   font-family: "Roboto", sans-serif;
   color: #434455;
@@ -49,10 +48,6 @@ ul {
 .address-menu-list .address-link:hover,
 .address-menu-list .address-link:focus {
   color: #404BBF;
-}
-
-.header-address {
-  font-style: normal;
 }
 
 .address-link {
