@@ -28,6 +28,11 @@ ul {
   color: var(--NAVY-BLUE, #2e2f42);
 }
 
+.menu-list .link:hover,
+.menu-list .link:focus {
+  color: #404BBF;
+}
+
 .link {
   color: var(--NAVY-BLUE, #2e2f42);
 
@@ -39,6 +44,11 @@ ul {
   line-height: 24px;
   /* 150% */
   letter-spacing: 0.32px;
+}
+
+.address-menu-list .address-link:hover,
+.address-menu-list .address-link:focus {
+  color: #404BBF;
 }
 
 .address-link {
