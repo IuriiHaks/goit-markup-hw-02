@@ -45,6 +45,10 @@ ul {
   letter-spacing: 0.32px;
 }
 
+.header-address {
+  font-style: normal;
+}
+
 .address-menu-list .address-link:hover,
 .address-menu-list .address-link:focus {
   color: #404BBF;
