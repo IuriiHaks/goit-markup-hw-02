@@ -47,6 +47,7 @@ ul {
 
 .header-address {
   font-style: normal;
+  font-family: "Roboto", sans-serif;
 }
 
 .address-menu-list .address-link:hover,
@@ -58,9 +59,8 @@ ul {
   color: var(--SLATE, #434455);
 
   /* Body */
-  font-family: Roboto;
+  font-family: "Roboto", sans-serif;
   font-size: 16px;
-  font-style: normal;
   font-weight: 400;
   line-height: 24px;
   /* 150% */
